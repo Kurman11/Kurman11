@@ -1,7 +1,11 @@
-<div align='center'> <h2>Hello, I'm YongJin 😀</h2> </div>
+<div align='center'> 
+ <h2>Hello, I'm YongJin 😀</h2> 
+ 현재 Python을 공부중입니다!
+</div><br>
 
-<div align='center'>KDT 풀스택 개발자 2기 과정 수강 </div><br><br>
+<div align='center'>KDT 풀스택 개발자 2기 과정 수강 </div>
 <div align='center'>꾸준히 노력 하는 개발자</div>
+<div align='center'></div>
 
 <h3><b>Tech Stack</b></h3>
 <div align='center'>
@@ -17,7 +21,7 @@
  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
  <img src="https://img.shields.io/badge/Visual Stydio Code-007ACC?style=for-the-badge&logo=Visual Stydio Code&logoColor=white">
  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-</div>
+</div><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kurman11&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=skedyd45)](https://solved.ac/skedyd45/)
