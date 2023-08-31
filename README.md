@@ -23,7 +23,7 @@
  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 </div><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kurman11&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kurman11&show_icons=true&theme=tokyonight)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=skedyd45)](https://solved.ac/skedyd45/)
 
  
